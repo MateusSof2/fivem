@@ -1,4 +1,4 @@
----
+---data_file "SCENARIO_POINTS_OVERRIDE_PSO_FILE" "sp_manifest.ymt"
 ns: CFX
 apiset: server
 ---
